@@ -9,7 +9,7 @@ class SoftwareEngineer:
 
     def __init__(self):
         self.name = "maaximaaxi"
-        self.role = "Energy Coordinator"
+        self.role = "Quality Process Manager"
         self.language_spoken = ["de_DE", "en_US"]
 
     def say_hi(self):
